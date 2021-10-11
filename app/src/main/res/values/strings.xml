@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parimatch</string>
+    <string name="reconnect_28ola">Reconnect</string>
+    <string name="start_button_28ola">Start</string>
+    <string name="logo_28ola">logo pm</string>
+    <string name="check_your_connection_28ola">Check your Connection</string>
+</resources>
