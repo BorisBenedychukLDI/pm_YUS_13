@@ -11,7 +11,7 @@ const val APPSFLYER_AF_CHANNEL_TAG_28ola = "af_channel"
 const val APPSFLYER_MEDIA_SOURCE_TAG_28ola = "media_source"
 
 const val FB_DEFAULT_KEY_28ola = "paradefkey"
-const val FB_BLACK_KEY_28ola = "parablackpa_"
+const val FB_BLACK_KEY_28ola = "parablackpa"
 const val FB_WHITE_KEY_28ola = "parawhitepa"
 const val CODED_ONESIGNAL_28ola = "MDUwOWY1MzQtMDRmMy00MWIwLTg5NjktMDQwOTc1MWNiNjE2"
 const val CODE_APPSFLYER_28ola = "OXVVd3Z0WnJibm01Q2lBczdMTXduaQ=="
