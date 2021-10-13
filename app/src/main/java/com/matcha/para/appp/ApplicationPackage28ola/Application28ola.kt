@@ -9,8 +9,6 @@ class Application28ola : Application(), ApplicationContract28ola.ApplicationMeth
 
     override fun onCreate() {
         applicationContract28ola = ApplicationSetuper28ola(this)
-        applicationContract28ola.appsFlyerSetup28ola()
-        applicationContract28ola.mobileAdsSetup28ola()
         applicationContract28ola.oneSignalSetup28ola()
         super.onCreate()
     }

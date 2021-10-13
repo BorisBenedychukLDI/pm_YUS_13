@@ -8,8 +8,6 @@ interface ApplicationContract28ola {
     }
 
     interface ApplicationSetuperMethods28ola {
-        fun appsFlyerSetup28ola ()
         fun oneSignalSetup28ola ()
-        fun mobileAdsSetup28ola ()
     }
 }

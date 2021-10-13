@@ -51,18 +51,6 @@
                 android:name="android.support.FILE_PROVIDER_PATHS"
                 android:resource="@xml/external_28ola" />
         </provider>
-
-        <receiver
-            android:name="com.appsflyer.SingleInstallBroadcastReceiver"
-            android:exported="true" >
-            <intent-filter>
-                <action android:name="com.android.vending.INSTALL_REFERRER" />
-            </intent-filter>
-        </receiver>
-
-        <meta-data
-            android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-2873192379823129~5963923345" />
     </application>
 
 </manifest>

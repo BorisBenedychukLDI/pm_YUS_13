@@ -26,7 +26,6 @@ class MainActivity28ola : AppCompatActivity(), SplashActivityContract28ola.Splas
         binding28ola = ActivityMain28olaBinding.inflate(layoutInflater)
         setContentView(binding28ola.root)
         splashActivityPresenterMethods28Ola = SplashPresenter28ola(this)
-        splashActivityPresenterMethods28Ola.setupFB28ola()
         splashActivityPresenterMethods28Ola.thisEndsHere28ola()
     }
 

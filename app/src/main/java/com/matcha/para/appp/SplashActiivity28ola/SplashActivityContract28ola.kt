@@ -13,6 +13,5 @@ interface SplashActivityContract28ola {
 
     interface SplashActivityPresenter28ola {
         fun thisEndsHere28ola()
-        fun setupFB28ola ()
     }
 }
